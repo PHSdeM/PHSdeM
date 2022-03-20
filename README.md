@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Unity
-- 🌱 I’m currently learning C#, JavaScript and ReactJS
+- 🌱 JavaScript and ReactJS
 - 😄 He/His
 
 <div align="center">
